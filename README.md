@@ -67,4 +67,4 @@ The Coca-Cola Sales Analysis project aims to evaluate sales performance across r
 ### References
 
 - Internal Coca-Cola Sales Data
-- 
+- Sales benchmarks for FMCG products
